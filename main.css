@@ -1,0 +1,24 @@
+body {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    height: 50vh;
+    background: rgb(51, 38, 38);
+}
+.container-4{
+    background: rgb(116, 69, 69);
+    padding: 10px;
+    border: 25px solid black;
+}
+h2{
+    color: rgb(51, 38, 38);
+}
+.flex-box-pick-color {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-around;
+    background: rgb(139, 89, 89);
+    border-top: 3px solid black;
+    padding: 10px;
+}
